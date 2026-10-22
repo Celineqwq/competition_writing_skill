@@ -91,7 +91,7 @@
 Windows PowerShell：
 
 ```powershell
-git clone https://github.com/Celineqwq/-skill.git
+git clone https://github.com/Celineqwq/competition_writing_skill.git
 cd ./-skill
 powershell -ExecutionPolicy Bypass -File .\install.ps1
 ```
@@ -99,7 +99,7 @@ powershell -ExecutionPolicy Bypass -File .\install.ps1
 macOS / Linux：
 
 ```bash
-git clone https://github.com/Celineqwq/-skill.git
+git clone https://github.com/Celineqwq/competition_writing_skill.git
 cd ./-skill
 bash install.sh
 ```
