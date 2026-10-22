@@ -1,0 +1,4 @@
+interface:
+  display_name: "比赛计划书写作助手"
+  short_description: "面向大创、挑战杯、互联网+等赛事的计划书写作与评审助手"
+  default_prompt: "Use $competition-proposal-writing 帮我写一份完整的创新创业比赛商业计划书。"
